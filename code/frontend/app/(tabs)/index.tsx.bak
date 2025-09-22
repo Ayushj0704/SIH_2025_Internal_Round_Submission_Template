@@ -1,0 +1,254 @@
+import React from "react";
+import { View, Text, ImageBackground, TouchableOpacity, SafeAreaView, StyleSheet } from "react-native";
+import PagerView from "react-native-pager-view";
+import { MaterialIcons } from "@expo/vector-icons";
+import { router } from "expo-router";
+
+export default function Onboarding() {
+  return (
+    <SafeAreaView style={styles.container}>
+      <PagerView style={styles.pager} initialPage={0}>
+      {/* Page 1 */}
+      <View style={styles.slide1}>
+        <View style={styles.imageContainer}>
+          <Image
+            source={{ uri: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD6ogVCAmqMLzM-7G1KWumpogI4PWTpe9QyMXMUyxT39rf9KrhwIas-x9Holtlcl8S80qyJA8Wph0HA9KkKIiGdT0w1w03hqPNhW3iCMxzUZkycVH5Cam1_qGGzj7tDDgaYxrb07hKtqVYYxM4wDFo_UfisUkqvtQ8UkobWGWNZcVOvwgYRvQsPMGxdTaF9tr85KUd7Jam18fQ6OS9LpNVjSF87eo82T40owR7we78zcFlPKCh2NL-Iey5g1i1jJB-9hpyCrBVB--4' }}
+            style={styles.page1Image}
+          />
+        </View>
+        <View style={styles.textContainer}>
+          <Text style={styles.page1Title}>Segregate Waste, Save the Planet</Text>
+          <Text style={styles.page1Text}>
+            Join us in our mission to create a cleaner, greener future. Learn how to properly sort your waste and contribute to a more sustainable world.
+          </Text>
+        </View>
+        <View style={styles.buttonContainer}>
+          <TouchableOpacity style={styles.page1Button} onPress={() => router.push('/signup')}>
+            <Text style={styles.page1ButtonText}>Get Started</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+
+      {/* Page 2 */}
+      <View style={styles.slide2}>
+        <View>
+          <Image
+            source={{ uri: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAFTVSicVZOkm-7Z1xFvU9ImkVA8gJPslEvaCDV-5VmAXY8-nhQHLMVM0qosw3j1TZ7pqEb-3I3eHZfXdn2-9dPlizPRKn2A8K4l_OyTJz4ZS98Hhf8maw0qrnQlIjbFQZwlNqttMRxd-RNxpFR-4FArO0tfObfycYI-aHi8o9-SprSrnUAdSEDzvMF0nOf13DtE45lN38VXfQRi2Qt-Enc25MzFNULDS6Jfh6KIs4lq3MQ9UEOtRjTLI4pLkO0SutxD00cHLmETAc' }}
+            style={styles.page2Image}
+          />
+        </View>
+        <View style={styles.textContainer}>
+          <Text style={styles.page2Title}>Our Mission</Text>
+          <Text style={styles.page2Text}>
+            We're on a mission to make waste segregation easy and rewarding, helping you contribute to a greener planet.
+          </Text>
+        </View>
+        <View style={styles.buttonContainer}>
+          <TouchableOpacity style={styles.page2Button}>
+            <Text style={styles.page2ButtonText}>Next</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+
+      {/* Page 3 */}
+      <View style={styles.slide3}>
+        <View style={styles.imageContainer}>
+          <Image
+            source={{ uri: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCaxJklOTo3mNBMNRNy08e-c_-l6Vxdkp1WXSZgUjAa6LCg5Ls5lh5JH6a9ZHw6PVdAyBPKMfctWcneP_ztlgyljtWAaT_Dl7T4Zcxn3N_jmN5kuXIM5CDlU2JOofi9IMLYxkAWjH51su_1AaUjvYg4aHuk9HFYOXwjB8WxUgKjBoX8SPIBmNWnP15-SRkpciUilVbwfHd8m30tBu78X4P0hKYn22PVMHz9kRT6je6vMNQ35GA2nzb0t_-ul7BLmZceXx3ouwxYU5s' }}
+            style={styles.page3Image}
+          />
+        </View>
+        <View style={styles.textContainer}>
+          <Text style={styles.page3Title}>Join the Movement</Text>
+          <Text style={styles.page3Text}>
+            Be part of a community dedicated to sustainable living. Sign up or log in to start making a difference today.
+          </Text>
+        </View>
+        <View style={styles.buttonContainer}>
+          <TouchableOpacity style={styles.page3SignUpButton} onPress={() => router.push('/signup')}>
+            <Text style={styles.page3SignUpButtonText}>Sign Up</Text>
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.page3LogInButton} onPress={() => router.push('/login')}>
+            <Text style={styles.page3LogInButtonText}>Log In</Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+    </Swiper>
+    </SafeAreaView>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#F0FDF4',
+  },
+  wrapper: {
+    flex: 1,
+  },
+  dot: {
+    backgroundColor: 'rgba(0,0,0,.2)',
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    margin: 3,
+  },
+  activeDot: {
+    backgroundColor: '#38e07b',
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    margin: 3,
+  },
+  imageContainer: {
+    width: '100%',
+    alignItems: 'center',
+  },
+  slide1: {
+    flex: 1,
+    alignItems: 'center',
+    backgroundColor: '#F0FDF4',
+    paddingTop: 32,
+  },
+  page1Image: {
+    width: 250,
+    height: 250,
+    borderRadius: 16,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 5,
+    elevation: 5,
+  },
+  page1Title: {
+    fontSize: 28,
+    fontWeight: '700',
+    color: '#14532D',
+    letterSpacing: -0.5,
+    textAlign: 'center',
+  },
+  page1Text: {
+    fontSize: 16,
+    color: '#166534',
+    marginTop: 16,
+    textAlign: 'center',
+  },
+  page1Button: {
+    width: '100%',
+    height: 56,
+    borderRadius: 50,
+    backgroundColor: '#38e07b',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 16,
+  },
+  page1ButtonText: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#14532D',
+  },
+
+  slide2: {
+    flex: 1,
+    backgroundColor: 'white',
+  },
+  page2Image: {
+    width: '100%',
+    height: '40%',
+    resizeMode: 'cover',
+  },
+  page2Title: {
+    fontSize: 28,
+    fontWeight: '700',
+    color: '#1F2937',
+    textAlign: 'center',
+  },
+  page2Text: {
+    fontSize: 18,
+    color: '#4B5563',
+    marginTop: 16,
+    textAlign: 'center',
+  },
+  page2Button: {
+    width: '100%',
+    height: 56,
+    borderRadius: 50,
+    backgroundColor: '#38e07b',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 16,
+  },
+  page2ButtonText: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#1F2937',
+  },
+
+  slide3: {
+    flex: 1,
+    backgroundColor: '#f0fdf4',
+    justifyContent: 'space-between',
+  },
+  page3Image: {
+    width: '100%',
+    height: 400,
+    resizeMode: 'cover',
+    borderBottomLeftRadius: 24,
+    borderBottomRightRadius: 24,
+  },
+  page3Title: {
+    fontSize: 32,
+    fontWeight: '700',
+    color: '#14532d',
+    textAlign: 'center',
+  },
+  page3Text: {
+    fontSize: 18,
+    color: '#166534',
+    marginTop: 16,
+    textAlign: 'center',
+  },
+  page3SignUpButton: {
+    width: '100%',
+    height: 56,
+    borderRadius: 50,
+    backgroundColor: '#22c55e',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  page3SignUpButtonText: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: 'white',
+  },
+  page3LogInButton: {
+    width: '100%',
+    height: 56,
+    borderRadius: 50,
+    backgroundColor: 'white',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 16,
+    borderWidth: 1,
+    borderColor: '#16a34a',
+  },
+  page3LogInButtonText: {
+    fontSize: 18,
+    fontWeight: '700',
+    color: '#16a34a',
+  },
+  
+  // Common styles
+  textContainer: {
+    flex: 1,
+    paddingHorizontal: 24,
+    marginTop: 32,
+  },
+  buttonContainer: {
+    paddingHorizontal: 24,
+    paddingBottom: 32,
+    paddingTop: 16,
+  },
+});
+
+export default HomePage;

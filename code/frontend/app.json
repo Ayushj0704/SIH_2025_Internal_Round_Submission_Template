@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "EcoSankalan",
+    "slug": "ecosankalan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo",
+    "scheme": "ecosankalan",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ecosankalan.app",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#29a3a3",
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundImage": "./assets/images/logo"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.ecosankalan",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/logo"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/logo",
+          "imageWidth": 400,
+          "resizeMode": "contain",
+          "backgroundColor": "#7cfc00"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ce2d9d98-37f8-4aae-aca3-57c60f386b17"
+      }
+    },
+    "owner": "krjha"
+  }
+}
