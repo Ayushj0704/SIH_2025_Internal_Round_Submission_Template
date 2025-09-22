@@ -19,7 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation](https://github.com/Ayushj0704/SIH_2025_Internal_Round_Submission_Template/blob/master/files/SIHPPT.pdf)
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
 - **Live Deployment:** [View Deployment](https://expo.dev/accounts/krjha/projects/ecosankalan/builds/3926cf10-29f9-412c-b183-6ea67af0a313))
 - **Source Code:** [GitHub Repository Link](https://github.com/Ayushj0704/SIH-project-25)
