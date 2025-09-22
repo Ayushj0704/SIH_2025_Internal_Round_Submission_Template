@@ -1,9 +1,9 @@
 
 ### Tasks Accomplished
 
-- [x] Task 1:** **Mandatory Citizen Training System:** Developed an app-based solution to provide mandatory waste management training for every citizen. This includes interactive courses on waste segregation, composting, and recycling.
-- [x] Task 2:** **Decentralized Monitoring & Community Engagement:** Created a digital framework for a decentralized monitoring system, encouraging community participation through features like geo-tagged photo uploads for dumping sites and an incentive-based leaderboard.
-- [x] Task 3:** **Digital Waste Management Platform:** Implemented a complete digital app-based system that allows for the tracking of waste collection vehicles, provides locations of waste management facilities, and includes a marketplace for waste utilities.
+- [X] Task 1: **Mandatory Citizen Training System:** Developed an app-based solution to provide mandatory waste management training for every citizen. This includes interactive courses on waste segregation, composting, and recycling.
+- [x] Task 2: **Decentralized Monitoring & Community Engagement:** Created a digital framework for a decentralized monitoring system, encouraging community participation through features like geo-tagged photo uploads for dumping sites and an incentive-based leaderboard.
+- [x] Task 3: **Digital Waste Management Platform:** Implemented a complete digital app-based system that allows for the tracking of waste collection vehicles, provides locations of waste management facilities, and includes a marketplace for waste utilities.
 
 ### Technology Stack
 
