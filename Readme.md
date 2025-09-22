@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@bhagya-rajan](https://github.com/bhagya-rajan)
-- **MEMBER_2** - ROLL_NUMBER - [@Atishay-j-ain](https://github.com/Atishay-j-ain)
-- **MEMBER_3** - ROLL_NUMBER - [@krishna-131326](https://github.com/krishna-131326)
-- **MEMBER_4** - ROLL_NUMBER - [@Vipin5625](https://github.com/Vipin5625)
-- **MEMBER_5** - ROLL_NUMBER - [@bushraaaa0212](https://github.com/bushraaaa0212)
-- **MEMBER_6** - ROLL_NUMBER - [@Ayushj0704](https://github.com/Ayushj0704)
+- **MEMBER_1** - 2024UCS2135 - [@bhagya-rajan](https://github.com/bhagya-rajan)
+- **MEMBER_2** - 2024UCS1510 - [@Atishay-j-ain](https://github.com/Atishay-j-ain)
+- **MEMBER_3** - 2024UCS1548 - [@krishna-131326](https://github.com/krishna-131326)
+- **MEMBER_4** - 2024UCS1607 - [@Vipin5625](https://github.com/Vipin5625)
+- **MEMBER_5** - 2024UCS1616- [@bushraaaa0212](https://github.com/bushraaaa0212)
+- **MEMBER_6** - 2024UCS1573 - [@Ayushj0704](https://github.com/Ayushj0704)
 
 ## Project Links
 
