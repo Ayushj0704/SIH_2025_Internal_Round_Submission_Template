@@ -23,7 +23,7 @@ This project leverages the following technologies:
 - **Feature 4:** **Incentive-Based Approach:** Implements an incentive system to reward users for proper waste segregation and participation, directly addressing the behavioral aspect of waste management.
 - **Feature 5:** **Digital Marketplace:** Features an in-app marketplace for shopping waste utilities like compost kits and specialized dustbins, closing the loop on the waste management process.
 
-### Local Setup Instructions (Write for both windows and macos)
+### Local Setup Instructions (Write for both Android and ios)
 **Currently App is available for Android Only**
 Follow these steps to run the project locally
 1. **Clone the Repository**
