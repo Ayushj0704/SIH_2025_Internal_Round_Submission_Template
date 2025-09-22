@@ -10,17 +10,17 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@Ayushj0704](https://github.com/Ayushj0704)
 - **MEMBER_1** - ROLL_NUMBER - [@bhagya-rajan](https://github.com/bhagya-rajan)
-- **MEMBER_3** - ROLL_NUMBER - [@Atishay-j-ain](https://github.com/Atishay-j-ain)
-- **MEMBER_4** - ROLL_NUMBER - [@krishna-131326](https://github.com/krishna-131326)
-- **MEMBER_5** - ROLL_NUMBER - [@Vipin5625](https://github.com/Vipin5625)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **MEMBER_2** - ROLL_NUMBER - [@Atishay-j-ain](https://github.com/Atishay-j-ain)
+- **MEMBER_3** - ROLL_NUMBER - [@krishna-131326](https://github.com/krishna-131326)
+- **MEMBER_4** - ROLL_NUMBER - [@Vipin5625](https://github.com/Vipin5625)
+- **MEMBER_5** - ROLL_NUMBER - [@bushraaaa0212](https://github.com/bushraaaa0212)
+- **MEMBER_6** - ROLL_NUMBER - [@Ayushj0704](https://github.com/Ayushj0704)
 
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+- **Live Deployment:** [View Deployment](https://expo.dev/accounts/krjha/projects/ecosankalan/builds/3926cf10-29f9-412c-b183-6ea67af0a313))
 - **Source Code:** [GitHub Repository Link](https://github.com/Ayushj0704/SIH-project-25)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
