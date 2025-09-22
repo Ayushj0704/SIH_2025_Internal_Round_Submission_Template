@@ -42,9 +42,8 @@ Follow these steps to run the project locally
     npx expo start
     ```
 4. **Run on a Device**
-    * For Android: Press `a` in the terminal to open the app on an Android emulator or a physical device connected via USB.
-    * For iOS (macOS only): Press `i` in the terminal to open the app on an iOS simulator.
-    * For Web: Press `w` in the terminal to view the project in your web browser.
+    * For Android: Install Expo Go App and Scan the QR code from the App, Provided in the Terminal on running the previous Command . **OR** Directly Install the App from the development Link : https://expo.dev/accounts/krjha/projects/ecosankalan/builds/3926cf10-29f9-412c-b183-6ea67af0a313 
+    * For iOS :  Currently App isn't available on ios.
 
 
 
