@@ -1,0 +1,164 @@
+{
+  "Plastic Bottle": {
+    "disposal": "Recycle in plastic bins. Rinse before recycling.",
+    "ideas": [
+      { "name": "Bird Feeder", "video": "https://youtu.be/0sYVbV3pS3g" },
+      { "name": "Self-Watering Planter", "video": "https://youtu.be/Y0zF0rDqZdw" }
+    ]
+  },
+  "Glass Bottle": {
+    "disposal": "Recycle in glass bins. Avoid breaking.",
+    "ideas": [
+      { "name": "Flower Vase", "video": "https://youtu.be/jkXv3m1fGHg" },
+      { "name": "Candle Holder", "video": "https://youtu.be/6xA6t1hDnNQ" }
+    ]
+  },
+  "Cardboard": {
+    "disposal": "Recycle with paper. Keep dry.",
+    "ideas": [
+      { "name": "DIY Drawer Organizer", "video": "https://youtu.be/SIpuL4bD2Jk" },
+      { "name": "Gift Box", "video": "https://youtu.be/BncfYZcoDVg" }
+    ]
+  },
+  "Paper": {
+    "disposal": "Recycle with dry paper waste.",
+    "ideas": [
+      { "name": "Origami Crafts", "video": "https://youtu.be/qm8NImD3sq8" },
+      { "name": "Paper Beads", "video": "https://youtu.be/zPrRkY3rQ6A" }
+    ]
+  },
+  "Aluminium Can": {
+    "disposal": "Rinse and recycle with metals.",
+    "ideas": [
+      { "name": "Pencil Holder", "video": "https://youtu.be/7QTHkMPJzW8" },
+      { "name": "Mini Planter", "video": "https://youtu.be/G2L3e8Et01A" }
+    ]
+  },
+  "Tin Can": {
+    "disposal": "Clean and recycle with metals.",
+    "ideas": [
+      { "name": "Lantern", "video": "https://youtu.be/PIyzFGdxIYw" },
+      { "name": "Cutlery Holder", "video": "https://youtu.be/F1yD9S3-EXY" }
+    ]
+  },
+  "Plastic Bag": {
+    "disposal": "Reuse or recycle at drop-off points.",
+    "ideas": [
+      { "name": "Plarn (Plastic Yarn)", "video": "https://youtu.be/8jzDwE-rrI0" },
+      { "name": "Rag Rug", "video": "https://youtu.be/GzmmfQ1JNUg" }
+    ]
+  },
+  "Food Waste": {
+    "disposal": "Compost in organic bins.",
+    "ideas": [
+      { "name": "Kitchen Compost", "video": "https://youtu.be/bC3Y_3RmaYg" },
+      { "name": "Fertilizer", "video": "https://youtu.be/GI5TIVLrkKs" }
+    ]
+  },
+  "E-Waste": {
+    "disposal": "Send to e-waste recycling center.",
+    "ideas": [
+      { "name": "Art from Circuit Boards", "video": "https://youtu.be/k-3UeM7i3gk" },
+      { "name": "Keychains", "video": "https://youtu.be/eqQx4Qdycr4" }
+    ]
+  },
+  "Clothes": {
+    "disposal": "Donate if wearable, recycle if torn.",
+    "ideas": [
+      { "name": "Tote Bag", "video": "https://youtu.be/JVm6zGqmv00" },
+      { "name": "Rag Rug", "video": "https://youtu.be/2S1w4idyk8E" }
+    ]
+  },
+  "Shoes": {
+    "disposal": "Donate or recycle through shoe bins.",
+    "ideas": [
+      { "name": "Planters", "video": "https://youtu.be/7kjAzmdcJbQ" },
+      { "name": "Shoe Racks", "video": "https://youtu.be/1rkENoNGNGs" }
+    ]
+  },
+  "Plastic Container": {
+    "disposal": "Rinse and recycle.",
+    "ideas": [
+      { "name": "Organizers", "video": "https://youtu.be/9zRh7LVfU6s" },
+      { "name": "Seed Starters", "video": "https://youtu.be/MF5KsUlVcrE" }
+    ]
+  },
+  "Styrofoam": {
+    "disposal": "Drop-off recycling only.",
+    "ideas": [
+      { "name": "Mini Planters", "video": "https://youtu.be/OzwbvfdFL2g" },
+      { "name": "Foam Art", "video": "https://youtu.be/HZKqDwphZQQ" }
+    ]
+  },
+  "Battery": {
+    "disposal": "Hazardous — take to battery collection.",
+    "ideas": [
+      { "name": "Decor (non-functional)", "video": "https://youtu.be/kR8JyrM8n4M" }
+    ]
+  },
+  "Old Mobile Phone": {
+    "disposal": "E-waste collection only.",
+    "ideas": [
+      { "name": "Retro Display Piece", "video": "https://youtu.be/ThJbHhhGqSw" }
+    ]
+  },
+  "CD/DVD": {
+    "disposal": "E-waste bins.",
+    "ideas": [
+      { "name": "Coasters", "video": "https://youtu.be/ScMRKwA3VDE" },
+      { "name": "Mirror Art", "video": "https://youtu.be/vfF2rF4kxvU" }
+    ]
+  },
+  "Toothbrush": {
+    "disposal": "Recycle through oral care collection.",
+    "ideas": [
+      { "name": "Cleaning Brush", "video": "https://youtu.be/BkPUWv0S2UI" }
+    ]
+  },
+  "Toothpaste Tube": {
+    "disposal": "Recyclable at collection points.",
+    "ideas": [
+      { "name": "Mini Planter", "video": "https://youtu.be/4b8Cvhs3gUk" }
+    ]
+  },
+  "Newspaper": {
+    "disposal": "Recycle with paper.",
+    "ideas": [
+      { "name": "Seedling Pots", "video": "https://youtu.be/4FZbGG4qH7E" },
+      { "name": "Paper Bags", "video": "https://youtu.be/_xAFmXZ46_0" }
+    ]
+  },
+  "Egg Carton": {
+    "disposal": "Recycle or compost (if paper type).",
+    "ideas": [
+      { "name": "Paint Palette", "video": "https://youtu.be/n2jQXb-4g6k" },
+      { "name": "Seed Starter Tray", "video": "https://youtu.be/MQm9XmrExkg" }
+    ]
+  },
+  "Broken Tiles": {
+    "disposal": "Construction waste collection.",
+    "ideas": [
+      { "name": "Garden Mosaic", "video": "https://youtu.be/GzkQ6Xjz6Jc" }
+    ]
+  },
+  "Old Books": {
+    "disposal": "Donate if usable, recycle otherwise.",
+    "ideas": [
+      { "name": "Book Safe Box", "video": "https://youtu.be/FJJgQ6n3YZY" },
+      { "name": "Wall Art", "video": "https://youtu.be/24yGaj5kC38" }
+    ]
+  },
+  "Metal Scrap": {
+    "disposal": "Recycle at metal collection.",
+    "ideas": [
+      { "name": "Metal Sculptures", "video": "https://youtu.be/9sC_wtKQUl0" }
+    ]
+  },
+  "Plastic Straw": {
+    "disposal": "Avoid use, collect for recycling.",
+    "ideas": [
+      { "name": "Wall Art", "video": "https://youtu.be/nUMshGVDez0" },
+      { "name": "Bracelets", "video": "https://youtu.be/YApdNoj3UtA" }
+    ]
+  }
+}
