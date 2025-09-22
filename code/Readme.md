@@ -46,15 +46,3 @@ Follow these steps to run the project locally
     * For iOS :  Currently App isn't available on ios.
 
 
-
-
-
-
-
-
-
-
-
-Tools
-
-
